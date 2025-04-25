@@ -1,0 +1,14 @@
+C:\Users\domho\OneDrive\Desktop\Trabajo Final\Desarollo de Software 2\Carchelejo_Elecciones\bin\Debug\net9.0\Carchelejo_Elecciones.exe
+C:\Users\domho\OneDrive\Desktop\Trabajo Final\Desarollo de Software 2\Carchelejo_Elecciones\bin\Debug\net9.0\Carchelejo_Elecciones.deps.json
+C:\Users\domho\OneDrive\Desktop\Trabajo Final\Desarollo de Software 2\Carchelejo_Elecciones\bin\Debug\net9.0\Carchelejo_Elecciones.runtimeconfig.json
+C:\Users\domho\OneDrive\Desktop\Trabajo Final\Desarollo de Software 2\Carchelejo_Elecciones\bin\Debug\net9.0\Carchelejo_Elecciones.dll
+C:\Users\domho\OneDrive\Desktop\Trabajo Final\Desarollo de Software 2\Carchelejo_Elecciones\bin\Debug\net9.0\Carchelejo_Elecciones.pdb
+C:\Users\domho\OneDrive\Desktop\Trabajo Final\Desarollo de Software 2\Carchelejo_Elecciones\obj\Debug\net9.0\Carchelejo_Elecciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\domho\OneDrive\Desktop\Trabajo Final\Desarollo de Software 2\Carchelejo_Elecciones\obj\Debug\net9.0\Carchelejo_Elecciones.AssemblyInfoInputs.cache
+C:\Users\domho\OneDrive\Desktop\Trabajo Final\Desarollo de Software 2\Carchelejo_Elecciones\obj\Debug\net9.0\Carchelejo_Elecciones.AssemblyInfo.cs
+C:\Users\domho\OneDrive\Desktop\Trabajo Final\Desarollo de Software 2\Carchelejo_Elecciones\obj\Debug\net9.0\Carchelejo_Elecciones.csproj.CoreCompileInputs.cache
+C:\Users\domho\OneDrive\Desktop\Trabajo Final\Desarollo de Software 2\Carchelejo_Elecciones\obj\Debug\net9.0\Carchelejo_Elecciones.dll
+C:\Users\domho\OneDrive\Desktop\Trabajo Final\Desarollo de Software 2\Carchelejo_Elecciones\obj\Debug\net9.0\refint\Carchelejo_Elecciones.dll
+C:\Users\domho\OneDrive\Desktop\Trabajo Final\Desarollo de Software 2\Carchelejo_Elecciones\obj\Debug\net9.0\Carchelejo_Elecciones.pdb
+C:\Users\domho\OneDrive\Desktop\Trabajo Final\Desarollo de Software 2\Carchelejo_Elecciones\obj\Debug\net9.0\Carchelejo_Elecciones.genruntimeconfig.cache
+C:\Users\domho\OneDrive\Desktop\Trabajo Final\Desarollo de Software 2\Carchelejo_Elecciones\obj\Debug\net9.0\ref\Carchelejo_Elecciones.dll
